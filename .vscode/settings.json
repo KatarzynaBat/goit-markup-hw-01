@@ -6,7 +6,8 @@
 	"prettier.bracketSameLine": true,
 	"prettier.endOfLine": "auto",
 	"editor.defaultFormatter": "esbenp.prettier-vscode"
-}{
+}
+{
 	"printWidth": 100,
 	"tabWidth": 2,
 	"useTabs": false,
